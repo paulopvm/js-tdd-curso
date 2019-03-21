@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-curso",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de JS com tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulopvm/js-tdd-curso.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Paulo Oliveira <pv05105@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulopvm/js-tdd-curso/issues"
+  },
+  "homepage": "https://github.com/paulopvm/js-tdd-curso#readme"
+}
