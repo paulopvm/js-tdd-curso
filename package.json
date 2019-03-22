@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/paulopvm/js-tdd-curso/issues"
   },
-  "homepage": "https://github.com/paulopvm/js-tdd-curso#readme"
+  "homepage": "https://github.com/paulopvm/js-tdd-curso#readme",
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "husky": "^1.3.1"
+  }
 }
